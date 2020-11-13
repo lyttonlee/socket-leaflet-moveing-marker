@@ -2,7 +2,7 @@
 
 ** koa socket leaflet movingmarker**
 
-[Demo](http://www.huili.cool/moving-marker)
+[Demo](http://www.huili.cool/marker)
 
 ```
 yarn dev
