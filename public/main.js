@@ -1,4 +1,4 @@
-const url = 'http://0.0.0.0:7900'
+const url = 'http://www.huili.cool:7900'
 const socket = io(url)
 
 const point = {
